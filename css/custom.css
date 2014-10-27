@@ -69,5 +69,16 @@
     background-color:#222222;
 }
 
+.row.pic2 {
+    min-height:  0;
+}
 
+.rw-wrapper {
+    margin-top: 25px;
+    margin-bottom: 35px;
+}
+
+.rw-wrapper h2 {
+    font-size: 4vw;
+}
 
